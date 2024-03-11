@@ -1,0 +1,11 @@
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\bin\Debug\net6.0\CodingTest.Core.deps.json
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\bin\Debug\net6.0\CodingTest.Core.dll
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\bin\Debug\net6.0\CodingTest.Core.pdb
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\CodingTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\CodingTest.Core.AssemblyInfoInputs.cache
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\CodingTest.Core.AssemblyInfo.cs
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\CodingTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\CodingTest.Core.dll
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\refint\CodingTest.Core.dll
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\CodingTest.Core.pdb
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Integration\obj\Debug\net6.0\ref\CodingTest.Core.dll
