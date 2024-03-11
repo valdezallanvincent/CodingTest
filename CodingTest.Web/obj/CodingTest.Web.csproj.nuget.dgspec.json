@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Web\\CodingTest.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Integration\\CodingTest.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Integration\\CodingTest.Core.csproj",
+        "projectName": "CodingTest.Core",
+        "projectPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Integration\\CodingTest.Core.csproj",
+        "packagesPath": "C:\\Users\\avaldez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\avaldez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/jclt/_packaging/nugetfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Interface\\CodingTest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Interface\\CodingTest.Infrastructure.csproj",
+        "projectName": "CodingTest.Infrastructure",
+        "projectPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Interface\\CodingTest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\avaldez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\avaldez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/jclt/_packaging/nugetfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Integration\\CodingTest.Core.csproj": {
+                "projectPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Integration\\CodingTest.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Web\\CodingTest.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Web\\CodingTest.Web.csproj",
+        "projectName": "CodingTest.Web",
+        "projectPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Web\\CodingTest.Web.csproj",
+        "packagesPath": "C:\\Users\\avaldez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\avaldez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/jclt/_packaging/nugetfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Interface\\CodingTest.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\avaldez\\source\\repos\\CodingTest\\CodingTest.Interface\\CodingTest.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Polly.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

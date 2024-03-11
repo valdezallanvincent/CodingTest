@@ -1,0 +1,11 @@
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\bin\Debug\net6.0\CodingTest.Service.deps.json
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\bin\Debug\net6.0\CodingTest.Service.dll
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\bin\Debug\net6.0\CodingTest.Service.pdb
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\CodingTest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\CodingTest.Service.AssemblyInfoInputs.cache
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\CodingTest.Service.AssemblyInfo.cs
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\CodingTest.Service.csproj.CoreCompileInputs.cache
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\CodingTest.Service.dll
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\refint\CodingTest.Service.dll
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\CodingTest.Service.pdb
+C:\Users\avaldez\source\repos\CodingTest\CodingTest.Service\obj\Debug\net6.0\ref\CodingTest.Service.dll
